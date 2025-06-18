@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "London Christmas"
-author: Jonathan
+author: sal
 categories: [ Travel, Holidays ]
 image: assets/images/2.jpg
 ---
