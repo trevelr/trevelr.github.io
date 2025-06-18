@@ -1,5 +1,5 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Trevelr"
+email: jacahal+trevelr-blog@gmail.com
 timezone: UTC
 baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
@@ -54,3 +54,4 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-archives
+- jekyll-admin
