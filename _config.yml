@@ -1,5 +1,5 @@
 title: "Trevelr"
-email: jacahal+trevelr-blog@gmail.com
+email: jacahal+trevelr@gmail.com
 timezone: UTC
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
@@ -19,22 +19,20 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: G-CBXE8Q7M3G
 
 # Authors
 authors:
   jon:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    name: Jon
+    display_name: Jon
+    avatar: 'assets/images/jon.jpeg'
+    email: jacahal+trevelr@gmail.com
+    description: "Traveler in chief, coffee connoisseur, and amateur story teller."
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
+  instagram: https://www.instagram.com/trevelr_blog/
   discord: https://discord.gg/B5BbcSPC
 
 # Plugins
