@@ -1,4 +1,4 @@
-FROM ruby:3.1
+FROM ruby:3.2
 
 # Install Jekyll and other dependencies
 RUN apt-get update -qq && \
@@ -14,6 +14,7 @@ RUN bundle install
 
 # Default Jekyll port is 4000
 EXPOSE 4000
+EXPOSE 35729
 
 # Start the Jekyll server
 CMD ["bundle", "exec", "jekyll", "serve", "--host=0.0.0.0", "--livereload"]

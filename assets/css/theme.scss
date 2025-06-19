@@ -135,8 +135,12 @@ small, .small {
 /* Pages
 ================================================== */
 .hero {
-    background: #fdd93d;
+    background: #1297E7;
     padding: 5rem 5rem;
+}
+
+.hero h1, .hero p {
+    color: #fff;
 }
 
 @media only screen and (max-width: 1024px) {
