@@ -9,6 +9,9 @@ on:
       - synchronize
       - reopened
 
+permissions:
+  contents: write  # 👈 This is key
+
 jobs:
   remove-dockerfile:
     runs-on: ubuntu-latest
